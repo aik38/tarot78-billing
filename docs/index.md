@@ -1,197 +1,118 @@
 ---
 layout: default
-title: GoldCat Hoshi Consultation AI
+title: GoldCat | Hoshi Consultation AI
 permalink: /
 ---
 
-# GoldCat Hoshi Consultation AI (LINE)
+# GoldCat — Hoshi Consultation AI
 
-**Talk with an AI for gentle, entertainment-focused guidance.**  
-This service is provided via LINE. After payment, your usage (credits or subscription) will be activated.
+A lightweight AI consultation service delivered on LINE (self-reflection & entertainment use).  
+No physical goods are shipped.
 
-**Quick links:**  
-- [Pricing](#pricing)  
-- [How it works](#how-it-works)  
-- [Support](#support)  
-- [Legal Notice (Japan - Specified Commercial Transactions Act)](#legal-notice-japan---specified-commercial-transactions-act)  
-- [日本語はこちら](#日本語)
-
----
-
-## What is this?
-
-GoldCat Hoshi Consultation AI is a digital service you can use on LINE.  
-You send a message, and the AI replies with supportive, entertainment-oriented guidance.
-
-> **Important:** This service is for entertainment and self-reflection only.  
-> It is not medical, legal, or financial advice.
+**Start here**
+- Add on LINE: **LINE_URL_HERE**
+- Buy credits (Payment Links):  
+  - Starter (10 credits): **PAYMENT_LINK_STARTER**  
+  - Basic (30 credits): **PAYMENT_LINK_BASIC**  
+  - Standard (100 credits): **PAYMENT_LINK_STANDARD**  
+  - Pro (300 credits): **PAYMENT_LINK_PRO**
 
 ---
+
+## What you get
+GoldCat provides AI-powered chat support on LINE for self-reflection, journaling prompts, and tarot-style guidance for entertainment purposes.
 
 ## How it works
+1. Purchase a credit pack via Stripe (Payment Link).
+2. Credits are added to your account after payment is confirmed.
+3. Use GoldCat on LINE. Each response consumes credits based on usage rules shown in LINE.
 
-1. Purchase a plan (subscription or credits).
-2. Your access is activated after payment is confirmed.
-3. Use the service on LINE.
+**Billing timing:** charged at checkout.
 
-**LINE:** https://lin.ee/BMtJe8S
+## Pricing (credit packs)
+- Starter: 10 credits — ¥480
+- Basic: 30 credits — ¥980
+- Standard: 100 credits — ¥2,800
+- Pro: 300 credits — ¥6,800
 
----
+**Credit validity:** valid for 6 months from purchase.
 
-## Pricing
+## Delivery / service availability
+- Delivery method: digital service on LINE
+- Credit delivery timing: typically within a few minutes after successful payment
+- If you do not receive credits: contact us via email or LINE with your payment email and purchase time.
 
-Choose one of the following (final price and billing terms are shown on the payment page):
+## Refunds / cancellation
+Because this is a digital service delivered immediately, we generally do not offer refunds after credits have been delivered.  
+If there is a duplicate charge or credits were not delivered, we will investigate and resolve it.
 
-- **Monthly plan:** ¥800 / month (example)
-- **Credits pack:** (example) 30 credits / one-time purchase
+## Contact
+- Support email: **goldcat.jp@gmail.com**
+- LINE: **https://lin.ee/BMtJe8S**
 
-> Edit these numbers to match your Stripe product settings.
-
----
-
-## Payment
-
-Payments are processed securely by **Stripe**.  
-We **do not store** your full card number on our servers, and card details are collected on Stripe’s secure payment pages.
-
----
-
-## Cancellation & Refund Policy
-
-- **Digital service / credits:** In principle, we do not offer refunds after activation or delivery, except where required by law.
-- **Subscription:** You can cancel at any time. Access remains available until the end of the current billing period (unless otherwise stated on the payment page).
-
----
-
-## Support
-
-**Email:** goldcat.jp@gmail.com  
-**LINE:** https://lin.ee/BMtJe8S
-
-We aim to respond within 1–3 business days.
+## Policies
+Payments are processed securely by Stripe.  
+This service is for entertainment and self-reflection and does not provide medical, legal, or financial advice.
 
 ---
 
-## Privacy & Terms (Summary)
+# （日本語）GoldCat — Hoshi Consultation AI
 
-- We may collect basic information needed to provide the service (e.g., email, payment status, and service usage metadata).
-- We do not sell your personal data to third parties.
-- We take reasonable security measures to protect accounts and data.
+LINE上で提供するAI相談サービスです（自己理解・エンタメ用途）。  
+物理商品の配送はありません。
 
-(Full policies can be added as separate pages if needed.)
-
----
-
-# Legal Notice (Japan - Specified Commercial Transactions Act)
-
-This section is provided in accordance with Japan’s **Act on Specified Commercial Transactions** (Tokutei Shotorihiki-ho).
-
-**Service name:** GoldCat Hoshi Consultation AI  
-**Business name:** GoldCat  
-**Service type:** Digital service (no physical delivery)
-
-**Seller / Responsible person / Address / Phone:**  
-Will be provided **without delay upon request**.
-
-**Email:** goldcat.jp@gmail.com  
-**Support (LINE):** https://lin.ee/BMtJe8S
-
-**Price:** Displayed on the payment page (tax included unless otherwise stated).  
-**Additional fees:** None in principle (internet connection fees are borne by the customer).  
-**Payment methods:** Credit card (Stripe).  
-**Payment timing:** At the time of purchase.  
-**Service delivery timing:** Activation after payment confirmation (usually promptly).  
-**Returns / cancellation:** See [Cancellation & Refund Policy](#cancellation--refund-policy).  
-**Operating environment:** A smartphone with LINE installed and an internet connection is required.
+**ご利用開始**
+- LINE追加：**LINE_URL_HERE**
+- 回数券（クレジット）購入（Stripe Payment Links）：  
+  - お試し（10回）：**PAYMENT_LINK_STARTER**  
+  - ベーシック（30回）：**PAYMENT_LINK_BASIC**  
+  - スタンダード（100回）：**PAYMENT_LINK_STANDARD**  
+  - プロ（300回）：**PAYMENT_LINK_PRO**
 
 ---
 
-# 日本語
-
-# GoldCat 星（Hoshi）相談AI（LINE）
-
-**LINE上で使える、相談サポートのデジタルサービスです。**  
-決済完了後に、回数券（利用権）またはサブスクリプションの利用が有効化されます。
-
-**目次：**  
-- [料金](#料金)  
-- [使い方](#使い方)  
-- [お問い合わせ](#お問い合わせ)  
-- [特定商取引法に基づく表記](#特定商取引法に基づく表記)  
-
----
-
-## サービス概要
-
-GoldCat 星（Hoshi）相談AIは、LINEで利用できるデジタルサービスです。  
-メッセージを送るとAIが返信します（エンタメ・自己理解用途）。
-
-※本サービスはエンターテインメントおよび自己理解の補助を目的とするもので、医療・法律・投資等の専門的助言ではありません。
-
----
+## サービス内容
+GoldCatは、LINE上でAIによる相談・自己整理・ジャーナリング補助・タロット風ガイダンス（エンタメ用途）を提供します。
 
 ## 使い方
+1. Stripeの決済リンク（Payment Link）から回数券（クレジット）を購入します。
+2. 決済確認後、クレジットが付与されます。
+3. LINE上でGoldCatを利用します（利用ルールに応じてクレジットを消費します）。
 
-1. プラン（サブスク or 回数券）を購入  
-2. 決済確認後に利用が有効化  
-3. LINEでメッセージ送信 → AIが返信
+**請求タイミング：**チェックアウト時に決済されます。
 
-**LINE:** https://lin.ee/BMtJe8S
+## 料金（回数券／クレジット）
+- お試し：10回 — ¥480
+- ベーシック：30回 — ¥980
+- スタンダード：100回 — ¥2,800
+- プロ：300回 — ¥6,800
 
----
+**有効期限：**購入日から6か月
 
-## 料金
+## 提供時期・提供方法
+- 提供方法：LINE上のデジタルサービス
+- 付与タイミング：決済完了後、通常数分以内に反映
+- 反映されない場合：購入時刻・購入メールアドレスを添えて、メールまたはLINEでご連絡ください。
 
-最終的な金額・請求条件は、決済ページに表示されます（例）：
-
-- **月額プラン：** 800円 / 月（例）
-- **回数券：**（例）30回 / 買い切り
-
-> Stripeの商品設定と一致するように数値を調整してください。
-
----
-
-## 決済について
-
-決済は **Stripe** を利用して安全に処理されます。  
-当方のサーバーに**カード番号を保存することはありません**。カード情報はStripeの安全な決済ページで入力されます。
-
----
-
-## キャンセル・返金
-
-- **デジタルサービス／回数券：** 原則として提供開始後の返金はできません（法令上必要な場合を除く）。
-- **サブスク：** いつでも解約できます。原則として次回更新日までは利用可能です（決済ページの表記が優先）。
-
----
+## 返金・キャンセル
+デジタルサービスの性質上、クレジット付与後の返金は原則として行いません。  
+ただし、重複決済や未付与など不備がある場合は調査のうえ対応します。
 
 ## お問い合わせ
-
-**メール：** goldcat.jp@gmail.com  
-**LINE：** https://lin.ee/BMtJe8S
-
-通常、1〜3営業日以内に返信します。
+- メール：**goldcat.jp@gmail.com**
+- LINE：**https://lin.ee/BMtJe8S**
 
 ---
 
-# 特定商取引法に基づく表記
-
-**サービス名：** GoldCat 星（Hoshi）相談AI  
-**販売事業者（屋号）：** GoldCat  
-**販売形態：** デジタル役務（物品の配送はありません）
-
-**販売業者の氏名（名称）／運営統括責任者／所在地／電話番号：**  
-ご請求があれば**遅滞なく開示**いたします。
-
-**メールアドレス：** goldcat.jp@gmail.com  
-**サポート（LINE）：** https://lin.ee/BMtJe8S
-
-**販売価格：** 決済ページに表示  
-**商品代金以外の必要料金：** 原則なし（通信費はお客様負担）  
-**支払方法：** クレジットカード（Stripe）  
-**支払時期：** 購入時  
-**提供時期：** 決済確認後、速やかに利用可能  
-**返品・キャンセル：** 上記「キャンセル・返金」を参照  
-**動作環境：** LINEが利用可能な端末およびインターネット環境
-
----
+## 特定商取引法に基づく表記（最小表示）
+- 販売事業者：GOLDCAT（GoldCat）
+- 所在地：福岡県北九州市  
+  ※詳細な住所は、ご請求があった場合、遅滞なく開示します。
+- 電話番号：ご請求があった場合、遅滞なく開示します。
+- メールアドレス：goldcat.jp@gmail.com
+- 販売価格：各商品ページ（決済リンク）に表示
+- 商品代金以外の必要料金：インターネット接続料金・通信料金はお客様負担
+- お支払い方法：クレジットカード等（Stripeが提供する決済手段）
+- 引渡時期（提供時期）：決済完了後、通常数分以内にクレジット付与
+- 返品・キャンセル：デジタルサービスのため返品不可（返金条件は上記参照）
+- 動作環境：LINEが利用可能な端末／インターネット接続環境
